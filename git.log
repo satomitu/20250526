@@ -1,0 +1,44 @@
+commit 568f3b6957165c54e66035ef8efbc9cd0b5bafff
+Merge: 57836fb 5db99a4
+Author: Mitsuki Sato <msato@meijo-u.ac.jp>
+Date:   Mon May 26 14:12:22 2025 +0900
+
+    Merge branch 'main' of https://github.com/satomitu/20250526
+
+commit 57836fb8634b902838ecd863d041e91bf2ed0465
+Author: Mitsuki Sato <msato@meijo-u.ac.jp>
+Date:   Mon May 26 14:09:27 2025 +0900
+
+    ミノの色を変更
+    
+    blueをskyblueに変更
+
+commit 5db99a44376f4d03c751321b2092330b683e47fa
+Author: Sato Mitsuki <184976698+satomitu@users.noreply.github.com>
+Date:   Mon May 26 14:07:07 2025 +0900
+
+    ミノの色を変更
+    
+    cyanをskyblueに変更
+
+commit 5c6f9f48fedcea745e8510c1ecd036f904496a63
+Author: Mitsuki Sato <msato@meijo-u.ac.jp>
+Date:   Mon May 26 14:01:55 2025 +0900
+
+    ミノが落ちてくる速度を変更
+    
+    少し遅く変更
+
+commit b74a636e274b4a5b82783987b54933f3ab4fe38f
+Author: Mitsuki Sato <msato@meijo-u.ac.jp>
+Date:   Mon May 26 13:52:24 2025 +0900
+
+    ミノの色を変更
+    
+    深緑を明るい緑に変更
+
+commit 928638655c30143aa6f52f0762d0d1c9f227600c
+Author: Mitsuki Sato <msato@meijo-u.ac.jp>
+Date:   Mon May 26 13:38:31 2025 +0900
+
+    ソースコードをインポート
